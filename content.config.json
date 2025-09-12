@@ -2,13 +2,16 @@
   {
     "folder": "./blog",
     "schema": {
-
+      "created_at": "date",
+      "title": "string",
+      "public": "boolean",
+      "dscription": "text"
     }
   },
   {
     "folder": "./content",
     "schema": {
-
+      "content": "string"
     }
   }
 ]
