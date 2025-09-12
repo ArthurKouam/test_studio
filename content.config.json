@@ -1,6 +1,6 @@
 [
   {
-    "folder": "./blog",
+    "folder": "blog",
     "schema": {
       "created_at": "date",
       "title": "string",
@@ -9,7 +9,7 @@
     }
   },
   {
-    "folder": "./content",
+    "folder": "content",
     "schema": {
       "content": "string"
     }
