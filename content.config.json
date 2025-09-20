@@ -2,16 +2,23 @@
   {
     "folder": "blog",
     "schema": {
-      "created_at": "date",
+      "date": "date",
       "title": "string",
       "public": "boolean",
-      "dscription": "text"
+      "description": "text",
+      "createdat": "date",
+      "slug": "string"
     }
   },
   {
     "folder": "content",
     "schema": {
-      "content": "string"
+      "date": "date",
+      "title": "string",
+      "public": "boolean",
+      "description": "text",
+      "createdat": "date",
+      "slug": "string"
     }
   }
 ]
